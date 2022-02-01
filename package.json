@@ -16,7 +16,5 @@
     "url": "https://github.com/saeidpiryaee/background-generator/issues"
   },
   "homepage": "https://github.com/saeidpiryaee/background-generator#readme",
-  "dependencies": {
-    "loadash": "^1.0.0"
-  }
+  "dependencies": {}
 }
