@@ -1,8 +1,5 @@
-var _ = require('lodash');
-console.log(_);
-var array = [1,2,3,4,5,6,7,8];
-console.log = ("The answer is : " , _.without(array, 3));
-console.log ("hi");
+import { without } from "lodash";
+console.log(without);
 var css = document.querySelector("h3");
 var color1 = document.querySelector(".color1");
 var color2 = document.querySelector(".color2");
